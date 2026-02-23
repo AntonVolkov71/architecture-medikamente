@@ -42,7 +42,7 @@
 ##  Механизм тегирования данных
 - TAG_PII
 - TAG_PHI
-- TAG_FINANCIAL
+- TAG_FIN
 - TAG_PUBLIC
 - TAG_INTERNAL
 - TAG_RAW
