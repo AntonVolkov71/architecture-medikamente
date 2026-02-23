@@ -64,7 +64,7 @@
     - журналирование
     - централизованный аудит чтения/изменения PHI/PII
   - Data Catalog / Tagging
-      - теги данных (TAG_PII, TAG_PHI, TAG_FINANCIAL, TAG_RAW, TAG_ANALYTICS)
+      - теги данных (TAG_PII, TAG_PHI, TAG_FIN, TAG_RAW, TAG_ANALYTICS)
       - Data Lineage и контроль политики доступа на основе тегов
   - DLP Engine
     - проверка выгрузок
